@@ -1,5 +1,3 @@
-Sure. Here is a **simple GitHub README** without technical/OOP terminology, focused only on what the ATM project does and how to use it.
-
 # 🏧 DecodeLabs ATM System
 
 A simple **ATM System** that allows users to perform basic banking operations through a menu.
